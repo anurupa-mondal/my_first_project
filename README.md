@@ -1,2 +1,3 @@
 # my_first_project
-my first project in git
+my first repository in git
+author-anurupa mondal
